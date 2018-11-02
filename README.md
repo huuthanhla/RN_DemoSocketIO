@@ -18,7 +18,7 @@ node Server.js
 
 #### How to fix Socket.io client missing file
 
-- Copy folder 'Server/node_modules/socket.io-client' into 'DemoSocketIO/node_modules/socket.io-client'
+- Copy folder **_Server/node_modules/socket.io-client_** into **_DemoSocketIO/node_modules/socket.io-client_**
 
 ```javascript
 import io from 'socket.io-client/dist/socket.io.js'
