@@ -1,6 +1,6 @@
-# RN_DemoSocketIO
+# Demo Socket.io
 
-## How to work
+#### How to work
 
 ```npm
 npm install --save
@@ -16,7 +16,7 @@ cd Server
 node Server.js
 ```
 
-## How to fix Socket.io client missing file
+#### How to fix Socket.io client missing file
 
 - Copy folder 'Server/node_modules/socket.io-client' into 'DemoSocketIO/node_modules/socket.io-client'
 
